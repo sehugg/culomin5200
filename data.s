@@ -3,7 +3,7 @@
 
 
 ; Character sets for caves
-;.segment "CL_CHSET1"
+.segment "DLIST"
 _CLM_DATA_CHSET1:
 .incbin "clmfont1.fnt"
 ;.segment "CL_CHSET2"
