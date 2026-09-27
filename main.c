@@ -52,6 +52,7 @@
 
 #pragma codesize(100)
 
+//#symbol ld __CARTSIZE__=0x8000
 //#link "rmt_sup.s"
 //#link "data.s"
 //#resource "clmfont1.fnt"
